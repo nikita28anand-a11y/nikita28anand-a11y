@@ -1,4 +1,4 @@
-@@ -1,61 +1,74 @@
+
 <h1 align="center">Hi 👋, I'm Nikita Anand</h1>
 <h3 align="center">Python Developer | SQL Learner | Power BI Enthusiast</h3>
 <div align="center">
